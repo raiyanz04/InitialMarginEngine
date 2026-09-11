@@ -1,4 +1,4 @@
-# InitialMargin
+# MarginX
 
 This library is a C# implementation of the following `Initial Margin` models for non-cleared derivatives transactions:
  - [Standard Initial Margin Model 2.1 (SIMM™ 2.1)](https://www.isda.org/2018/08/27/isda-publishes-isda-simm-2-1/) developed by [ISDA](https://www.isda.org)
