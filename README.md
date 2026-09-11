@@ -12,7 +12,7 @@ This library has been created for educational purposes. Users who are interested
 
 ## Main Features
 
-InitialMargin is...
+MarginX is...
 
  * `Easy-to-Deploy`: all what it requires is compliant input data, either in the form of a `CRIF` file or as a runtime-generated list of data entities;
  * `Easy-to-Extend`: new initial margin calculation methodologies are easy to integrate into the library by extending the existing base classes;
